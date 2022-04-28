@@ -17,7 +17,7 @@
     "@types/jest": "^26.0.23",
     "@types/jest-image-snapshot": "^4.3.0",
     "@types/node": "^15.6.1",
-    "@types/sharp": "^0.31",
+    "@types/sharp": "^0.31.4",
     "@typescript-eslint/eslint-plugin": "^4.25.0",
     "@typescript-eslint/parser": "^4.25.0",
     "eslint": "^7.27.0",
@@ -62,6 +62,6 @@
     "tslib": "^2.3.1"
   },
   "peerDependencies": {
-    "sharp": "^0.31.2"
+    "sharp": "^0.31.4"
   }
 }
